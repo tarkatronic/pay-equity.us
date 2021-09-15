@@ -17,5 +17,5 @@ how companies are dealing with these laws.
 | AZ    |
 | CA    |
 | CO    | <https://leg.colorado.gov/bills/sb19-085> | <https://cdle.colorado.gov/equalpaytransparency> <https://www.coloradoexcluded.com/> |
-| IA    | <https://www.legis.iowa.gov/publications/search/document?fq=id:853922> | |
+| IA    | <https://www.legis.iowa.gov/publications/search/document?fq=id:853922> (In committee since 2017) | |
 | WA    |
