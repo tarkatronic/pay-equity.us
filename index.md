@@ -15,7 +15,7 @@ how companies are dealing with these laws.
 | State | Official Laws | Extra Information |
 | ----- | ------------- | ----------------- |
 | AZ    |
-| CA    |
+| CA    |  | <https://www.dir.ca.gov/dlse/california_equal_pay_act.htm> |
 | CO    | <https://leg.colorado.gov/bills/sb19-085> | <https://cdle.colorado.gov/equalpaytransparency> <https://www.coloradoexcluded.com/> |
 | IA    | <https://www.legis.iowa.gov/publications/search/document?fq=id:853922> (In committee since 2017) | |
 | WA    |
